@@ -1,12 +1,5 @@
-<<<<<<< HEAD
+# i will ignore the javascript/css/html files since this is a python repository but i'm learning both languages so i'm doing both examples of the same program
+
 *.js
 *.css
 *.html
-=======
-# i will ignore the javascript/css/html files since this is a python repository but i'm learning both languages so i'm doing both examples of the same program
-
-.css
-.html
-.js
-
->>>>>>> 879700d730ed550cd5a392b184f31dd9e3ea828a
